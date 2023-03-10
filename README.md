@@ -1,2 +1,2 @@
-# INGESOFT_UCC
+# Software Engineering
 Ingesoft's Repo for the course on UCC
